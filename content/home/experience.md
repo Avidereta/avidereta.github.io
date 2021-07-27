@@ -1,50 +1,41 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+active: true
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-design:
-  columns: '2'
+- company: Amazon Web Services (AWS)
+  company_url: https://aws.amazon.com/
+  date_end: '2020-10-15'
+  date_start: '2020-06-15'
+  description: "  Research Intern at AWS AI working on Automatic Model Tuning and SageMaker Autopilot. "
+  location: Berlin
+  title: ML Intern
+- company: Yandex
+  company_url: https://www.ya.ru
+  date_end: '2016-08-31'
+  date_start: '2016-06-01'
+  description: "  Research Intern at Yandex.Weather working on "
+  location: Moscow
+  title: Research Intern
+- company: ProtonMail
+  company_url: https://www.protonmail.com
+  date_end: '2017-08-31'
+  date_start: '2017-06-01'
+  description: "  * Applied LSH for SPAM detection\n  * Developed the system for import/export\
+    \ of emails for the ProtonMail system\n  "
+  location: Geneva
+  title: Software Engineering Intern
+- company: ETH Zurich
+  company_url: https://prs.igp.ethz.ch
+  date_start: '2017-10-03'
+  description: "  Research areas: Deep Learning, Tensors, Computer Vision\n\n  Advisor:\
+    \ Prof. Konrad Schindler\n  "
+  location: Zurich
+  title: PhD Student / Research Assistant
+headless: true
+subtitle: ''
+title: Experience
+weight: 40
+widget: experience
 ---
+
+{"mode":"full","isActive":false}
