@@ -34,14 +34,6 @@
     
     <item>
       <title>Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation</title>
-      <link>/publication/mivabo-2020/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/mivabo-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation</title>
       <link>/publication/usvyatsov-2020-cpic/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <guid>/publication/usvyatsov-2020-cpic/</guid>
@@ -131,6 +123,22 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Mixed-Variable Bayesian Optimization</title>
+      <link>/publication/mivabo-2020/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mivabo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Image Classification Using Entailment Cone Embeddings</title>
+      <link>/publication/dhall-2019-cone/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dhall-2019-cone/</guid>
+      <description></description>
     </item>
     
     <item>
