@@ -7,6 +7,9 @@ weight: 25
 widget: custom
 headless: true
 view: 1
+design:
+    spacing:
+        padding: ["-20px", "0", "2px", "0"]
 ---
 
 - *Summer 2021:* Paper [Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation](https://arxiv.org/pdf/2105.14250.pdf) accepted at ICCV 2021.

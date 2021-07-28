@@ -1,7 +1,7 @@
 ---
 title: "Mixed-Variable Bayesian Optimization"
 date: 2020-09-10
-authors: [Erik Daxberger, Anastasia Makarova, Matteo Turchetta, Andreas Krause]
+authors: [Erik Daxberger, Anastasiia Makarova, Matteo Turchetta, Andreas Krause]
 publication_types: ["2"]
 featured: false
 publication: "*International Joint Conference on Artificial Intelligence (IJCAI)*"
