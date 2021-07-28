@@ -30,10 +30,10 @@ education:
   - course: MSc in Data Analysis
     institution: Skolkovo Institute of Science and Technology (Skoltech), Moscow, Russia
     year: 2017
-  - course: MSc in Applied Mathematics
+  - course: MSc in Applied Mathematics (with honors)
     institution: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia
     year: 2017
-  - course: BSc in MSc in Applied Mathematics and Physics
+  - course: BSc in MSc in Applied Math and Physics (with honors)
     institution: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia
     year: 2015
 
@@ -72,7 +72,7 @@ My current interests span multiple topics around probabilistic machine learning,
 
 Prior to ETH, I have graduated from 
 [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) and 
-[Skoltech](https://www.skoltech.ru/en) - universities in Moscow with great people and great courses.
+[Skoltech](https://www.skoltech.ru/en) - Moscow universities with great people and great courses.
  At Skoltech, I worked on deep learning based methods for weakly-supervised semantic 
 segmentation under the supervision of 
 [Victor Lempitsky](https://scholar.google.ru/citations?user=gYYVokYAAAAJ&hl=en) 

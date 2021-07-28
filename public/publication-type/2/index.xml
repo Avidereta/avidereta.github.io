@@ -14,14 +14,6 @@
     
     <item>
       <title>Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation</title>
-      <link>/publication/mivabo-2020/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/mivabo-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation</title>
       <link>/publication/usvyatsov-2020-cpic/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <guid>/publication/usvyatsov-2020-cpic/</guid>
@@ -33,6 +25,22 @@
       <link>/publication/makarova-2020-stopbo/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/publication/makarova-2020-stopbo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed-Variable Bayesian Optimization</title>
+      <link>/publication/mivabo-2020/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mivabo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Image Classification Using Entailment Cone Embeddings</title>
+      <link>/publication/dhall-2019-cone/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dhall-2019-cone/</guid>
       <description></description>
     </item>
     

@@ -20,7 +20,7 @@ experience:
   company_url: https://www.ya.ru
   date_end: '2016-08-31'
   date_start: '2016-06-01'
-  description: "  Research Intern at Yandex.Weather working on "
+  description: "  Research Intern at Yandex.Weather working on precipitation nowcasting using deep convolutional and recurrent models"
   location: Moscow
   title: Research Intern
 - company: Columbia University, Data Science Institute

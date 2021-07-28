@@ -3,10 +3,10 @@ title: "Overfitting in Bayesian Optimization: an empirical
 study and early-stopping solution"
 date: 2021-04-16
 publishDate: 2021-06-11
-authors: ["*Anastasiia Makarova*", "Huibin Shen", "Valerio Perrone", "Aaron Klein", "Jean Baptiste Faddoul", "Andreas Krause", "Matthias Seeger", "Cedric Archambeau"]
+authors: ["Anastasiia Makarova", "Huibin Shen", "Valerio Perrone", "Aaron Klein", "Jean Baptiste Faddoul", "Andreas Krause", "Matthias Seeger", "Cedric Archambeau"]
 publication_types: ["2"]
 featured: false
-publication: "*ICLR Workshop on Neural Architecture Search, 2021*"
+publication: "*ICLR Workshop on Neural Architecture Search*"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -1,11 +1,10 @@
 ---
-title: "Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation"
-date: 2021-05-29
-publishDate: 2021-05-29
-authors: [Mikhail Usvyatsov, Anastasia Makarova, Rafael Ballester-Ripoll, Maxim Rakhuba, Andreas Krause, Konrad Schindler]
+title: "Mixed-Variable Bayesian Optimization"
+date: 2020-09-10
+authors: [Erik Daxberger, Anastasia Makarova, Matteo Turchetta, Andreas Krause]
 publication_types: ["2"]
 featured: false
-publication: "*International Conference on Computer Vision (ICCV)*"
+publication: "*International Joint Conference on Artificial Intelligence (IJCAI)*"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +17,9 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-url_pdf: https://arxiv.org/abs/2105.14250
+url_pdf: https://edaxberger.github.io/papers/Mixed-Variable%20Bayesian%20Optimization.pdf
+url_video: https://www.ijcai.org/proceedings/2020/video/25555
+url_long_talk: https://www.ijcai.org/proceedings/2020/video/27020
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
