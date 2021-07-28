@@ -9,6 +9,13 @@ experience:
   description: "  Research Intern at AWS AI working on Automatic Model Tuning and SageMaker Autopilot. "
   location: Berlin
   title: ML Intern
+- company: ETH Zurich
+  company_url: https://prs.igp.ethz.ch
+  date_start: '2017-10-03'
+  description: "  Research areas: Probabilistic Machine Learning, Bayesian Optimization, Deep Learning, Tensors, Computer Vision\n\n  Advisor:\
+    \ Prof. Andreas Krause\n  "
+  location: Zurich
+  title: PhD Student / Research Assistant
 - company: Yandex
   company_url: https://www.ya.ru
   date_end: '2016-08-31'
@@ -16,26 +23,22 @@ experience:
   description: "  Research Intern at Yandex.Weather working on "
   location: Moscow
   title: Research Intern
-- company: ProtonMail
-  company_url: https://www.protonmail.com
-  date_end: '2017-08-31'
-  date_start: '2017-06-01'
-  description: "  * Applied LSH for SPAM detection\n  * Developed the system for import/export\
-    \ of emails for the ProtonMail system\n  "
-  location: Geneva
-  title: Software Engineering Intern
-- company: ETH Zurich
-  company_url: https://prs.igp.ethz.ch
-  date_start: '2017-10-03'
-  description: "  Research areas: Deep Learning, Tensors, Computer Vision\n\n  Advisor:\
-    \ Prof. Konrad Schindler\n  "
-  location: Zurich
-  title: PhD Student / Research Assistant
+- company: Columbia University, Data Science Institute
+  company_url: https://datascience.columbia.edu/
+  date_end: '2016-09-01'
+  date_start: '2016-12-10'
+  description: "  Worked with [Hod Lipson](https://scholar.google.com/citations?user=F_Go4V4AAAAJ&hl=en)\
+    \ and collaboration with [Victor Lempitsky](https://scholar.google.ru/citations?user=gYYVokYAAAAJ&hl=en).\n\n  
+    * Worked on deep learning based methods for weakly-supervised semantic 
+segmentation\
+    \n  * Developed an efficient architecture for image-based plant disease detection \n  "
+  location: New York
+  title: Visiting Researcher
 headless: true
 subtitle: ''
 title: Experience
 weight: 40
 widget: experience
+view: 1
 ---
 
-{"mode":"full","isActive":false}

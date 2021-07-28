@@ -47,10 +47,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Z8TFiEEAAAAJ&hl=en
+  link: https://scholar.google.ru/citations?hl=ru&user=skAF5s8AAAAJ&view_op=list_works&gmla=AJsN-F7ZMIIOPtI0dfTaUtxvryN0EkODdMAKCCYXncq6cfEAZ3UUrjLW9tSkM3wWJFVD2cYo4ujIZ09UYEx9_fzAG57qreX-4t3l_aAXGMgCmPzPWnwC9YpYHhVKkiAAxUfue5EGtJGhqbEln5efDqFp07QhwM0U8MRc-jkN8aiqK4n8IDWcpjdaCPHyou62oZenH7CiKo9zO1MLh5Yopvv1ooGO2vGrDw
 - icon: github
   icon_pack: fab
-  link: https://github.com/aelphy
+  link: https://github.com/Avidereta
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -65,18 +65,17 @@ highlight_name: false
 ---
 
 I am a PhD student in Computer Science at [ETH Zurich](https://ethz.ch) under the supervision of [Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en)
-and member of[Learning and Adaptive Systems Group](https://las.inf.ethz.ch/).
-I am broadly interested in machine learning and computer vision. 
-Particularly, my current projects are mostly concentrated around Bayesian optimization 
-and practical methods using deep learning. 
-I especially enjoy when combined knowledge from different fields resonates. 
+and member of [Learning and Adaptive Systems Group](https://las.inf.ethz.ch/). In my PhD, I have mostly been focusing on two areas: (1) making Bayesian optimization more robust and applicable at higher scale, and (2) representation learning for structured data, such as ​point clouds or graphs.
+
+
+My current interests span multiple topics around probabilistic machine learning, including representation learning, bayesian optimization, generative modeling, and more generally learning on structured data, such as images and graphs. In a long term perspective of my research, I am sparked by designing robust algorithms with quantified uncertainty and well-understood limitations, empirically and theoretically.
+
 Prior to ETH, I have graduated from 
 [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) and 
-[Skoltech](https://www.skoltech.ru/en).
-At Skoltech, I worked on deep learning based methods for weakly-supervised semantic 
+[Skoltech](https://www.skoltech.ru/en) - universities in Moscow with great people and great courses.
+ At Skoltech, I worked on deep learning based methods for weakly-supervised semantic 
 segmentation under the supervision of 
 [Victor Lempitsky](https://scholar.google.ru/citations?user=gYYVokYAAAAJ&hl=en) 
-and interned at Columbia University under the co-supervision of Hod Lipson. 
+and interned at Columbia University under the co-supervision of [Hod Lipson](https://scholar.google.com/citations?user=F_Go4V4AAAAJ&hl=en). 
 I have also interned at [Yandex](https://en.wikipedia.org/wiki/Yandex), where I worked on an interesting problem of deep learning based 
-[precipitation nowcasting](https://yandex.ru/pogoda/moscow/maps/nowcast?le_Lightning=1&ll=39.740119_56.398348&z=7).
-
+[precipitation nowcasting](https://yandex.ru/pogoda/moscow/maps/nowcast?le_Lightning=1&ll=39.740119_56.398348&z=7). These projects motivated me to consider two research problems that led to my PhD: uncertainty estimation in our predictions and automatic hyperparameter tuning.

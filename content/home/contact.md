@@ -2,6 +2,7 @@
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
+headless: true  # This file represents a page section.
 
 # This file represents a page section.
 headless: true
@@ -18,12 +19,9 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      id: anmakaro@ethz.ch
   
 design:
   columns: '2'
