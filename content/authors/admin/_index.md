@@ -49,7 +49,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_Academia.pdf
+  link: https://docs.google.com/document/d/1GeKp1CO40zAYulTLvnTJNsZkQK4ChuSae32QGh6VEdc/edit?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "anmakaro@ethz.ch"
