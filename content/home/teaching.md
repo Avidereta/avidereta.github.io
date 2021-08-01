@@ -7,7 +7,7 @@ weight: 55
 widget: custom
 ---
 
-- **Head Teaching assistant:** : lead course reorganization, teaching and examination
+- **Head Teaching assistant:** lead course reorganization, teaching and examination
     * __[Probabilistic Artificial Intelligence](https://las.inf.ethz.ch/pai-f20)__ at ETH, 2020
     (600 students course and 30 TAs)
 - **Teaching assistant**: create howeworks, projects, teach tutorials, supervise exam
