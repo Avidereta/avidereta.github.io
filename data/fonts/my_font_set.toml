@@ -3,7 +3,7 @@ name = "Minimal"
 
 # Optional Google font URL
 #google_fonts = "family=Work+Sans:wght@100"
-google_fonts = "family=Lato:wght@100&family=Work+Sans:wght@100"
+google_fonts = "family=Lato:wght@300&family=Work+Sans:wght@300"
 
 # Font families
 heading_font = "Lato"
