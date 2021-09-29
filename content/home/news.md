@@ -11,9 +11,9 @@ design:
     spacing:
         padding: ["-20px", "0", "2px", "0"]
 ---
-
-- *Summer 2021:* Paper [Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation](https://arxiv.org/pdf/2105.14250.pdf) accepted at ICCV 2021.
-- *Spring 2021:* Paper [Overfitting in Bayesian Optimization: an empirical
+- *Fall 2021:* Our paper Risk-averse Bayesian Optimization accepted to NeurIPS 2021.
+- *Summer 2021:* Our paper [Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation](https://arxiv.org/pdf/2105.14250.pdf) accepted at ICCV 2021.
+- *Spring 2021:* Our paper [Overfitting in Bayesian Optimization: an empirical
 study and early-stopping solution](https://arxiv.org/pdf/2104.08166.pdf) accepted to ICLR Workshop on Neural Architecture Search. Video is [here](https://slideslive.com/38955387/overfitting-in-bayesian-optimization-an-empirical-study-and-earlystopping-solution?ref=search).
 - *Fall 2020:* I am Head TA [Probabilistic Artificial Intelligence](https://las.inf.ethz.ch/pai-f20).
 - *Summer 2020:* I am interning at Amazon Web Services AI.
