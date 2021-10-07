@@ -26,6 +26,8 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/aelphy/c-pic
+- name: Poster
+  url: https://docs.google.com/presentation/d/1KXTXaJjXE0unCrAAceUJrqQ5384uG1RKpC6YwLuT4hs/edit?usp=sharing
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
