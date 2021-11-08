@@ -29,7 +29,7 @@ summary: ""
 
 links:
 - name: PDF
-  url: https://arxiv.org/pdf/2104.08166.pdf
+  url: files/stopbo-arxiv-2021.pdf
 - name: Video
   url: https://slideslive.com/38955387/overfitting-in-bayesian-optimization-an-empirical-study-and-earlystopping-solution?ref=search
 
