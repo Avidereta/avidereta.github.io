@@ -22,7 +22,7 @@ links:
 - name: PDF
   url: https://arxiv.org/pdf/2111.03637.pdf
 - name: Video
-  url: https://recorder-v3.slideslive.com/?share=52378&s=19ea24aa-fe53-414a-ba68-c9d8c0e57dd9
+  url: https://neurips.cc/virtual/2021/poster/26309
 - name: Slides
   url: https://docs.google.com/presentation/d/1XYURj0pa6afc_shsdTJfJ0oKJRIu59FIuDYdfdCVazY/edit?usp=sharing
 
