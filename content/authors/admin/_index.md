@@ -41,7 +41,7 @@ education:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ru/citations?hl=ru&user=skAF5s8AAAAJ&view_op=list_works&gmla=AJsN-F7ZMIIOPtI0dfTaUtxvryN0EkODdMAKCCYXncq6cfEAZ3UUrjLW9tSkM3wWJFVD2cYo4ujIZ09UYEx9_fzAG57qreX-4t3l_aAXGMgCmPzPWnwC9YpYHhVKkiAAxUfue5EGtJGhqbEln5efDqFp07QhwM0U8MRc-jkN8aiqK4n8IDWcpjdaCPHyou62oZenH7CiKo9zO1MLh5Yopvv1ooGO2vGrDw
+  link: https://scholar.google.com/citations?hl=en&user=skAF5s8AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Avidereta
