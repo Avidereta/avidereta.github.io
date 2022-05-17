@@ -59,19 +59,22 @@ highlight_name: false
 ---
 
 I am a PhD student in Computer Science at [ETH Zurich](https://ethz.ch) under the supervision of [Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en)
-and member of [Learning and Adaptive Systems Group](https://las.inf.ethz.ch/). In my PhD, I have mostly been focusing on two areas: (1) making Bayesian optimization more robust and applicable at higher scale, and (2) representation learning for structured data, such as ​point clouds or graphs.
+and member of [Learning and Adaptive Systems Group](https://las.inf.ethz.ch/). I am also associated with the [ETH AI Center](https://ai.ethz.ch/). 
+I work on sequential decision-making and representation learning for structured data, such as ​point clouds or graphs.
+# In my PhD, I have mostly been focusing on two areas: (1) making Bayesian optimization more robust and applicable at higher scale, and (2) representation learning for structured data, such as ​point clouds or graphs.
 
 **Research interests**\
 My current interests span multiple topics around probabilistic machine learning, including representation learning, bayesian optimization, generative modeling, and more generally learning on structured data, such as images and graphs. In a long term perspective of my research, I am sparked by designing robust algorithms with quantified uncertainty and well-understood limitations, empirically and theoretically.
 
-Prior to ETH, I have graduated from 
+Prior to ETH, I studied Maths, Physics, and Data Science at 
 [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) and 
 [Skoltech](https://www.skoltech.ru/en) -- Moscow universities with great people and great courses.
- At Skoltech, I worked on deep learning based methods for weakly-supervised semantic 
+I worked on deep learning for weakly-supervised semantic 
 segmentation under the supervision of 
 [Victor Lempitsky](https://scholar.google.ru/citations?user=gYYVokYAAAAJ&hl=en) 
 and interned at Columbia University under the co-supervision of [Hod Lipson](https://scholar.google.com/citations?user=F_Go4V4AAAAJ&hl=en). 
-I have also interned at [Yandex](https://en.wikipedia.org/wiki/Yandex), where I worked on an interesting problem of deep learning based 
-[precipitation nowcasting](https://yandex.ru/pogoda/moscow/maps/nowcast?le_Lightning=1&ll=39.740119_56.398348&z=7). 
-These projects motivated me to consider two research problems in my PhD: 
-uncertainty estimation in predictions and automatic hyperparameter tuning.
+ I did ML internships at [Yandex](https://en.wikipedia.org/wiki/Yandex) (deep learning for [precipitation nowcasting](https://yandex.ru/pogoda/moscow/maps/nowcast?le_Lightning=1&ll=39.740119_56.398348&z=7)) 
+ and Amazon Web Services (Bayesian optimization for AutoML).  
+ # I have also interned at , where I worked on an interesting problem of deep learning based 
+# These projects motivated me to consider two research problems in my PhD: 
+# uncertainty estimation in predictions and automatic hyperparameter tuning.
