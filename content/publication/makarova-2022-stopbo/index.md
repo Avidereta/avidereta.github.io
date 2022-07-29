@@ -5,7 +5,7 @@ publishDate: 2022-02-05
 authors: ["Anastasiia Makarova", "Huibin Shen", "Valerio Perrone", "Aaron Klein", "Jean Baptiste Faddoul", "Andreas Krause", "Matthias Seeger", "Cedric Archambeau"]
 publication_types: ["1"]
 featured: false
-publication: "*International Conference on Automated Machine Learning (AutoML-Conf)*"
+publication: "\ **Best Paper Award** and **Contributed Talk** at *International Conference on Automated Machine Learning (AutoML-Conf)*"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
