@@ -37,14 +37,6 @@
     </item>
     
     <item>
-      <title>Overfitting in Bayesian Optimization: an empirical study and early-stopping solution</title>
-      <link>/publication/makarova-2020-stopbo/</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/makarova-2020-stopbo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mixed-Variable Bayesian Optimization</title>
       <link>/publication/erik-2020-mivabo/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
