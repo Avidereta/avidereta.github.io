@@ -25,13 +25,13 @@ research interests:
 education:
   courses:
   - course: MSc in Data Analysis
-    institution: Skolkovo Institute of Science and Technology (Skoltech), Moscow, Russia
+    institution: Skolkovo Institute of Science and Technology (Skoltech), Moscow
     year: 2017
   - course: MSc in Applied Mathematics (with honors)
-    institution: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia
+    institution: Moscow Institute of Physics and Technology (Phystech), Moscow
     year: 2017
-  - course: BSc in MSc in Applied Math and Physics (with honors)
-    institution: Moscow Institute of Physics and Technology (MIPT), Moscow, Russia
+  - course: BSc in Applied Math and Physics (with honors)
+    institution: Moscow Institute of Physics and Technology (Phystech), Moscow
     year: 2015
 
 # Social/Academic Networking
@@ -58,7 +58,7 @@ email: "anmakaro@ethz.ch"
 highlight_name: false
 ---
 
-I am a PhD student in Computer Science at [ETH Zurich](https://ethz.ch) under the supervision of [Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en)
+I am a final-year PhD student in Computer Science at [ETH Zurich](https://ethz.ch) under the supervision of [Andreas Krause](https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en)
 and member of [Learning and Adaptive Systems Group](https://las.inf.ethz.ch/). I am also associated with the [ETH AI Center](https://ai.ethz.ch/). 
 I work on sequential decision-making and representation learning for structured data, such as ​point clouds or graphs.
 

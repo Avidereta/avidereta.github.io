@@ -5,7 +5,7 @@ publishDate: 2022-02-05
 authors: ["Anastasiia Makarova", "Huibin Shen", "Valerio Perrone", "Aaron Klein", "Jean Baptiste Faddoul", "Andreas Krause", "Matthias Seeger", "Cedric Archambeau"]
 publication_types: ["1"]
 featured: false
-publication: "\ **Best Paper Award** and **Contributed Talk** at *International Conference on Automated Machine Learning (AutoML-Conf)*, *ICLR Workshop on Neural Architecture Search 2021*"
+publication: "\ **Best Paper Award** and **Contributed Talk** at *International Conference on Automated Machine Learning (AutoML-Conf) 2022*, *ICLR Workshop on Neural Architecture Search 2021*"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,6 +35,8 @@ links:
   url: https://www.youtube.com/watch?v=7ilqNzxLp2g&feature=youtu.be
 - name: Slides
   url: https://docs.google.com/presentation/d/1KatZbfDyjydqYhKUDNw5vywqtKUz0wJCGyJBmZqzbwU/edit?usp=sharing
+- name: Blog post
+  url: https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference 
  
 
  # Featured image

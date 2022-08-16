@@ -5,7 +5,7 @@ publishDate: 2020-04-01
 authors: [Ankit Dhall, Anastasiia Makarova, Octavian Ganea, Dario Pavllo, Michael Greeff, Andreas Krause]
 publication_types: ["1"]
 featured: false
-publication: "*CVPR Workshop on on Differential Geometry (DiffCVML)*"
+publication: "*CVPR Workshop on on Differential Geometry (DiffCVML)*, resulted into the publicly available mobile app [BioDex](https://biodex.ethz.ch/about/)"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,6 +27,8 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/ankitdhall/learning_embeddings
+- name: App
+  url: https://biodex.ethz.ch/about/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
