@@ -11,9 +11,10 @@ design:
     spacing:
         padding: ["-20px", "0", "2px", "0"]
 ---
+- *November 2022:* New paper [“Model-based Causal Bayesian Optimization”](https://arxiv.org/pdf/2211.10257.pdf) is now available on arXiv.
 - *August 2022:* I was invited to speak at [Google TechTalk (Google BayesOpt Speaker Series)](https://youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER), [slides](https://docs.google.com/presentation/d/1S4SsCeIBD23QO-4Bxqyd3Nlg2LjIcTfS0QoX9GFl0Hw/edit?usp=sharing) and [video](https://www.youtube.com/watch?v=HxjU36rBYgk) are available.   
 - *August 2022:* I was invited to speak at AWS ML Science Tech Presentations series, [slides](https://docs.google.com/presentation/d/1Z4Wti_maSHM2ua3vJAc83FrO29l8wV6bP1RDoXwZ2tk/edit?usp=sharing) are available.   
-- *Summer 2022:* Our paper got the best paper award at AutoML Conf! I was invited to give the contributed talk, recording is [here](https://www.youtube.com/watch?v=uVktK8KZlyE). An intuitive blog post at Amazon Science is [here](https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference).
+- *Summer 2022:* Our paper got the **best paper award** at AutoML Conf! I was invited to give the contributed talk, recording is [here](https://www.youtube.com/watch?v=uVktK8KZlyE). An intuitive blog post at Amazon Science is [here](https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference).
 - *Spring 2022:* Our paper [Automatic Termination for Hyperparameter Optimization](https://openreview.net/forum?id=BNeNQWaBIgq) accepted to AutoML Conf 2022.
 - *Fall 2021:* Our paper [Risk-averse Heteroscedastic Bayesian Optimization](https://arxiv.org/pdf/2111.03637.pdf) accepted to NeurIPS 2021.
 - *Summer 2021:* Our paper [Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation](https://arxiv.org/pdf/2105.14250.pdf) accepted at ICCV 2021.
