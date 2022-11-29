@@ -63,7 +63,10 @@ and member of [Learning and Adaptive Systems Group](https://las.inf.ethz.ch/). I
 I work on sequential decision-making and representation learning for structured data, such as ​point clouds or graphs.
 
 **Research interests**\
-My current interests span multiple topics around probabilistic machine learning, including representation learning, bayesian optimization, generative modeling, and more generally learning on structured data, such as images and graphs. In a long term perspective of my research, I am sparked by designing robust algorithms with quantified uncertainty and well-understood limitations, empirically and theoretically.
+The main question that motivates my research is: How can we actively learn new complex environments? 
+To this end, my PhD works span multiple topics around sequential decision-making and representation learning for structured data (such as point clouds or graphs). 
+I am sparked by designing robust algorithms with quantified uncertainty and well-understood limitations (theoretically and empirically), that would be applicable in society-critical areas.
+
 
 Prior to ETH, I studied Maths, Physics, and Data Science at 
 [MIPT](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) and 
