@@ -64,7 +64,7 @@ I work on sequential decision-making and representation learning for structured 
 
 **Research interests**\
 The main question that motivates my research is: How can we actively learn new complex environments? 
-To this end, my PhD works span multiple topics around sequential decision-making and representation learning for structured data (such as point clouds or graphs). 
+My interests span multiple topics around sequential decision-making, bayesian optimization, representation learning, generative modeling.
 I am sparked by designing robust algorithms with quantified uncertainty and well-understood limitations (theoretically and empirically), that would be applicable in society-critical areas.
 
 
