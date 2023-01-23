@@ -11,8 +11,8 @@ design:
     spacing:
         padding: ["-20px", "0", "2px", "0"]
 ---
-- *January 2023:* Our paper [“Model-based Causal Bayesian Optimization”](https://arxiv.org/pdf/2211.10257.pdf) accepted to ICLR, featured as top 25% and in-person presentation.
-- *November 2022:* New paper [“Model-based Causal Bayesian Optimization”](https://arxiv.org/pdf/2211.10257.pdf) is now available on arXiv.
+- *January 2023:* Our paper [Model-based Causal BO](https://arxiv.org/pdf/2211.10257.pdf) accepted to ICLR featured as top 25%.
+- *November 2022:* New preprint: [Model-based Causal Bayesian Optimization](https://arxiv.org/pdf/2211.10257.pdf).
 - *August 2022:* I was invited to speak at [Google TechTalk (Google BayesOpt Speaker Series)](https://youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER), [slides](https://docs.google.com/presentation/d/1S4SsCeIBD23QO-4Bxqyd3Nlg2LjIcTfS0QoX9GFl0Hw/edit?usp=sharing) and [video](https://www.youtube.com/watch?v=HxjU36rBYgk) are available.   
 - *August 2022:* I was invited to speak at AWS ML Science Tech Presentations series, [slides](https://docs.google.com/presentation/d/1Z4Wti_maSHM2ua3vJAc83FrO29l8wV6bP1RDoXwZ2tk/edit?usp=sharing) are available.   
 - *Summer 2022:* Our paper got the **best paper award** at AutoML Conf! I was invited to give the contributed talk, recording is [here](https://www.youtube.com/watch?v=uVktK8KZlyE). An intuitive blog post at Amazon Science is [here](https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference).
