@@ -5,7 +5,7 @@ publishDate: 2022-11-18
 authors: ["Scott Sussex", "Anastasiia Makarova", "Andreas Krause"]
 publication_types: ["1"]
 featured: false
-publication: 
+publication: "*International Conference on Learning Representations (ICLR) 2023*"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
