@@ -11,16 +11,17 @@ design:
     spacing:
         padding: ["-20px", "0", "2px", "0"]
 ---
-- *January 2023:* Our paper [Model-based Causal BO](https://arxiv.org/pdf/2211.10257.pdf) accepted to ICLR featured as top 25%.
-- *November 2022:* New preprint: [Model-based Causal Bayesian Optimization](https://arxiv.org/pdf/2211.10257.pdf).
-- *August 2022:* I was invited to speak at [Google TechTalk (Google BayesOpt Speaker Series)](https://youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER), [slides](https://docs.google.com/presentation/d/1S4SsCeIBD23QO-4Bxqyd3Nlg2LjIcTfS0QoX9GFl0Hw/edit?usp=sharing) and [video](https://www.youtube.com/watch?v=HxjU36rBYgk) are available.   
-- *August 2022:* I was invited to speak at AWS ML Science Tech Presentations series, [slides](https://docs.google.com/presentation/d/1Z4Wti_maSHM2ua3vJAc83FrO29l8wV6bP1RDoXwZ2tk/edit?usp=sharing) are available.   
+- *May 2023:* Attending ICLR in Rwanda
+- *April 2023:* Joining Google Brain as a reseach intern
+- *January 2023:* [Model-based Causal BO](https://arxiv.org/pdf/2211.10257.pdf) accepted to ICLR featured **spotlight**  (top 25% of accepted papers)
+- *August 2022:* Invited to speak at [Google TechTalk (Google BayesOpt Speaker Series)](https://youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER), [slides](https://docs.google.com/presentation/d/1S4SsCeIBD23QO-4Bxqyd3Nlg2LjIcTfS0QoX9GFl0Hw/edit?usp=sharing) and [video](https://www.youtube.com/watch?v=HxjU36rBYgk) are available.   
+- *August 2022:* Invited to speak at AWS ML Science Tech Presentations series, [slides](https://docs.google.com/presentation/d/1Z4Wti_maSHM2ua3vJAc83FrO29l8wV6bP1RDoXwZ2tk/edit?usp=sharing) are available.   
 - *Summer 2022:* Our paper got the **best paper award** at AutoML Conf! I was invited to give the contributed talk, recording is [here](https://www.youtube.com/watch?v=uVktK8KZlyE). An intuitive blog post at Amazon Science is [here](https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference).
-- *Spring 2022:* Our paper [Automatic Termination for Hyperparameter Optimization](https://openreview.net/forum?id=BNeNQWaBIgq) accepted to AutoML Conf 2022.
-- *Fall 2021:* Our paper [Risk-averse Heteroscedastic Bayesian Optimization](https://arxiv.org/pdf/2111.03637.pdf) accepted to NeurIPS 2021.
-- *Summer 2021:* Our paper [Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation](https://arxiv.org/pdf/2105.14250.pdf) accepted at ICCV 2021.
-- *Spring 2021:* Our paper [Overfitting in Bayesian Optimization: an empirical
+- *Spring 2022:* [Automatic Termination for Hyperparameter Optimization](https://openreview.net/forum?id=BNeNQWaBIgq) accepted to AutoML Conf 2022.
+- *Fall 2021:* [Risk-averse Heteroscedastic Bayesian Optimization](https://arxiv.org/pdf/2111.03637.pdf) accepted to NeurIPS 2021.
+- *Summer 2021:* [Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation](https://arxiv.org/pdf/2105.14250.pdf) accepted at ICCV 2021.
+- *Spring 2021:* [Overfitting in Bayesian Optimization: an empirical
 study and early-stopping solution](https://arxiv.org/pdf/2104.08166.pdf) accepted to ICLR Workshop on Neural Architecture Search. Video is [here](https://slideslive.com/38955387/overfitting-in-bayesian-optimization-an-empirical-study-and-earlystopping-solution?ref=search).
 - *Fall 2020:* I am a Head TA of my favorite ETH course [Probabilistic Artificial Intelligence](https://las.inf.ethz.ch/pai-f20).
-- *Summer 2020:* I am interning at Amazon Web Services.
+- *Summer 2020:* Interning at Amazon Web Services
 - *Spring 2020:* Our paper [Hierarchical Image Classification using Entailment Cone Embeddings](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w50/Dhall_Hierarchical_Image_Classification_Using_Entailment_Cone_Embeddings_CVPRW_2020_paper.pdf) accepted to CVPR 2020 Workshop on Differential Geometry.
