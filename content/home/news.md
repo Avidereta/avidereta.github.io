@@ -12,7 +12,7 @@ design:
         padding: ["-20px", "0", "2px", "0"]
 ---
 - *May 2023:* Attending ICLR in Rwanda
-- *April 2023:* Joining Google Brain as a reseach intern
+- *April 2023:* Joining Google Brain as a reseach intern, going to dive into RL from human feedback for LLM
 - *January 2023:* [Model-based Causal BO](https://arxiv.org/pdf/2211.10257.pdf) accepted to ICLR featured **spotlight**  (top 25% of accepted papers)
 - *August 2022:* Invited to speak at [Google TechTalk (Google BayesOpt Speaker Series)](https://youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER), [slides](https://docs.google.com/presentation/d/1S4SsCeIBD23QO-4Bxqyd3Nlg2LjIcTfS0QoX9GFl0Hw/edit?usp=sharing) and [video](https://www.youtube.com/watch?v=HxjU36rBYgk) are available.   
 - *August 2022:* Invited to speak at AWS ML Science Tech Presentations series, [slides](https://docs.google.com/presentation/d/1Z4Wti_maSHM2ua3vJAc83FrO29l8wV6bP1RDoXwZ2tk/edit?usp=sharing) are available.   
@@ -23,5 +23,5 @@ design:
 - *Spring 2021:* [Overfitting in Bayesian Optimization: an empirical
 study and early-stopping solution](https://arxiv.org/pdf/2104.08166.pdf) accepted to ICLR Workshop on Neural Architecture Search. Video is [here](https://slideslive.com/38955387/overfitting-in-bayesian-optimization-an-empirical-study-and-earlystopping-solution?ref=search).
 - *Fall 2020:* I am a Head TA of my favorite ETH course [Probabilistic Artificial Intelligence](https://las.inf.ethz.ch/pai-f20).
-- *Summer 2020:* Interning at Amazon Web Services
-- *Spring 2020:* Our paper [Hierarchical Image Classification using Entailment Cone Embeddings](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w50/Dhall_Hierarchical_Image_Classification_Using_Entailment_Cone_Embeddings_CVPRW_2020_paper.pdf) accepted to CVPR 2020 Workshop on Differential Geometry.
+- *Summer 2020:* Interning at Amazon Web Services, Berlin
+- *Spring 2020:* [Hierarchical Image Classification using Entailment Cone Embeddings](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w50/Dhall_Hierarchical_Image_Classification_Using_Entailment_Cone_Embeddings_CVPRW_2020_paper.pdf) accepted to CVPR 2020 Workshop on Differential Geometry.
