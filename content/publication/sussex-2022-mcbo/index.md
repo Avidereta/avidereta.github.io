@@ -5,7 +5,7 @@ publishDate: 2022-11-18
 authors: ["Scott Sussex", "Anastasiia Makarova", "Andreas Krause"]
 publication_types: ["1"]
 featured: false
-publication: "*International Conference on Learning Representations (ICLR) 2023*"
+publication: "**Spotlight** at *International Conference on Learning Representations (ICLR) 2023*"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,12 +27,16 @@ abstract:
 summary: "A principled algorithm for causal bayesian optimization."
 
 links:
+- name: Oral presentation 
+  url: https://iclr.cc/virtual/2023/oral/14239
 - name: PDF
   url: https://arxiv.org/pdf/2211.10257.pdf
 - icon: github
   icon_pack: fab
   name: Code
   url: https://github.com/ssethz/mcbo
+- name: Slides
+  url: https://docs.google.com/presentation/d/1DwOuOaVHLoUwGA9CwfhKqYqagBIlGlbZhU83WkIdE6c/edit?usp=sharing
 
 
  # Featured image

@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Adversarial Causal Bayesian Optimization</title>
+      <link>/publication/sussex-2023-acbo/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sussex-2023-acbo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Risk-averse Bayesian Optimization for Controller Tuning</title>
+      <link>/publication/konig-2023-safe-rahbo/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/konig-2023-safe-rahbo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Model-based Causal Bayesian Optimization</title>
       <link>/publication/sussex-2022-mcbo/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>

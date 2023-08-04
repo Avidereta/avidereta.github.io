@@ -2,6 +2,12 @@
 active: true
 date_format: Jan 2006
 experience:
+- company: Google DeepMind 
+  date_end: '2023-04-24'
+  date_start: '2023-08-18'
+  description: "  Research Intern working on RL for LLMs. "
+  location: Zurich
+  title: Research Intern
 - company: Amazon Web Services (AWS)
   company_url: https://aws.amazon.com/
   date_end: '2020-10-15'

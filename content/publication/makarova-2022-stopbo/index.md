@@ -25,6 +25,8 @@ Additionally, we find that overfitting may occur in the context of HPO, which is
 summary: ""
 
 links:
+- name: Best paper award talk
+  url: https://www.youtube.com/watch?v=uVktK8KZlyE
 - name: PDF
   url: https://arxiv.org/abs/2104.08166
 - icon: github

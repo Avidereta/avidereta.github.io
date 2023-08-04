@@ -76,10 +76,10 @@
   
     
   
-  <meta name="description" content="Bayesian optimization (BO) is a widely popular approach for the hyperparameter optimization (HPO) in machine learning. At its core, BO iteratively evaluates promising configurations until a user-defined budget, such as wall-clock time or number of iterations, is exhausted. While the final performance after tuning heavily depends on the provided budget, it is hard to pre-specify an optimal value in advance. In this work, we propose an effective and intuitive termination criterion for BO that automatically stops the procedure if it is sufficiently close to the global optimum. Our key insight is that the discrepancy between the true objective (predictive performance on test data) and the computable target (validation performance) suggests stopping once the suboptimality in optimizing the target is dominated by the statistical estimation error. Across an extensive range of real-world HPO problems and baselines, we show that our termination criterion achieves a better trade-off between the test performance and optimization time. Additionally, we find that overfitting may occur in the context of HPO, which is arguably an overlooked problem in the literature, and show how our termination criterion helps to mitigate this phenomenon on both small and large datasets. " />
+  <meta name="description" content="Real-world application of risk-averse BO in safe controller tuning." />
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/makarova-2022-stopbo/" />
+  <link rel="alternate" hreflang="en-us" href="/publication/konig-2023-safe-rahbo/" />
 
   
   
@@ -284,7 +284,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/publication/makarova-2022-stopbo/" />
+  <link rel="canonical" href="/publication/konig-2023-safe-rahbo/" />
 
   
   
@@ -307,18 +307,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Anastasiia Makarova" />
-  <meta property="og:url" content="/publication/makarova-2022-stopbo/" />
-  <meta property="og:title" content="Automatic Termination for Hyperparameter Optimization | Anastasiia Makarova" />
-  <meta property="og:description" content="Bayesian optimization (BO) is a widely popular approach for the hyperparameter optimization (HPO) in machine learning. At its core, BO iteratively evaluates promising configurations until a user-defined budget, such as wall-clock time or number of iterations, is exhausted. While the final performance after tuning heavily depends on the provided budget, it is hard to pre-specify an optimal value in advance. In this work, we propose an effective and intuitive termination criterion for BO that automatically stops the procedure if it is sufficiently close to the global optimum. Our key insight is that the discrepancy between the true objective (predictive performance on test data) and the computable target (validation performance) suggests stopping once the suboptimality in optimizing the target is dominated by the statistical estimation error. Across an extensive range of real-world HPO problems and baselines, we show that our termination criterion achieves a better trade-off between the test performance and optimization time. Additionally, we find that overfitting may occur in the context of HPO, which is arguably an overlooked problem in the literature, and show how our termination criterion helps to mitigate this phenomenon on both small and large datasets. " /><meta property="og:image" content="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="/publication/konig-2023-safe-rahbo/" />
+  <meta property="og:title" content="Safe Risk-averse Bayesian Optimization for Controller Tuning | Anastasiia Makarova" />
+  <meta property="og:description" content="Real-world application of risk-averse BO in safe controller tuning." /><meta property="og:image" content="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-02-05T00:00:00&#43;00:00"
+        content="2023-07-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-02-05T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-07-01T00:00:00&#43;00:00">
   
 
   
@@ -340,16 +340,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/makarova-2022-stopbo/"
+    "@id": "/publication/konig-2023-safe-rahbo/"
   },
-  "headline": "Automatic Termination for Hyperparameter Optimization",
+  "headline": "Safe Risk-averse Bayesian Optimization for Controller Tuning",
   
-  "datePublished": "2022-02-05T00:00:00Z",
-  "dateModified": "2022-02-05T00:00:00Z",
+  "datePublished": "2023-07-01T00:00:00Z",
+  "dateModified": "2023-07-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Anastasiia Makarova"
+    "name": "Christopher Konig"
   },
   
   "publisher": {
@@ -360,7 +360,7 @@
       "url": "/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Bayesian optimization (BO) is a widely popular approach for the hyperparameter optimization (HPO) in machine learning. At its core, BO iteratively evaluates promising configurations until a user-defined budget, such as wall-clock time or number of iterations, is exhausted. While the final performance after tuning heavily depends on the provided budget, it is hard to pre-specify an optimal value in advance. In this work, we propose an effective and intuitive termination criterion for BO that automatically stops the procedure if it is sufficiently close to the global optimum. Our key insight is that the discrepancy between the true objective (predictive performance on test data) and the computable target (validation performance) suggests stopping once the suboptimality in optimizing the target is dominated by the statistical estimation error. Across an extensive range of real-world HPO problems and baselines, we show that our termination criterion achieves a better trade-off between the test performance and optimization time. Additionally, we find that overfitting may occur in the context of HPO, which is arguably an overlooked problem in the literature, and show how our termination criterion helps to mitigate this phenomenon on both small and large datasets. "
+  "description": "Real-world application of risk-averse BO in safe controller tuning."
 }
 </script>
 
@@ -371,7 +371,7 @@
   
 
 
-  <title>Automatic Termination for Hyperparameter Optimization | Anastasiia Makarova</title>
+  <title>Safe Risk-averse Bayesian Optimization for Controller Tuning | Anastasiia Makarova</title>
 
   
   
@@ -391,7 +391,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="d77fe1dfefdaa0b32e946df84371a087" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="63c85d5f75b44ff6a523a2984db9bda8" >
 
   
   
@@ -797,7 +797,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Automatic Termination for Hyperparameter Optimization</h1>
+  <h1>Safe Risk-averse Bayesian Optimization for Controller Tuning</h1>
 
   
 
@@ -815,14 +815,12 @@
     
 
   <span >
-      Anastasiia Makarova</span>, <span >
-      Huibin Shen</span>, <span >
-      Valerio Perrone</span>, <span >
-      Aaron Klein</span>, <span >
-      Jean Baptiste Faddoul</span>, <span >
+      Christopher Konig</span>, <span >
+      Miks Ozols</span>, <span >
+      Anastasia Makarova</span>, <span >
+      Efe C. Balta</span>, <span >
       Andreas Krause</span>, <span >
-      Matthias Seeger</span>, <span >
-      Cedric Archambeau</span>
+      Alisa Rupenyan</span>
   </div>
   
   
@@ -833,7 +831,7 @@
     
       
     
-    February, 2022
+    July, 2023
   </span>
   
 
@@ -874,7 +872,7 @@
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/makarova-2022-stopbo/cite.bib">
+        data-filename="/publication/konig-2023-safe-rahbo/cite.bib">
   Cite
 </a>
 
@@ -902,78 +900,8 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=uVktK8KZlyE" target="_blank" rel="noopener">
-    Best paper award talk</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2104.08166" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2306.13479.pdf" target="_blank" rel="noopener">
     PDF</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/amazon-research/bo-early-stopping" target="_blank" rel="noopener">
-    <i class="fab fa-github mr-1"></i>Code</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=7ilqNzxLp2g&amp;feature=youtu.be" target="_blank" rel="noopener">
-    Video</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://docs.google.com/presentation/d/1KatZbfDyjydqYhKUDNw5vywqtKUz0wJCGyJBmZqzbwU/edit?usp=sharing" target="_blank" rel="noopener">
-    Slides</a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference" target="_blank" rel="noopener">
-    Blog post</a>
 
 
 </div>
@@ -988,7 +916,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Bayesian optimization (BO) is a widely popular approach for the hyperparameter optimization (HPO) in machine learning. At its core, BO iteratively evaluates promising configurations until a user-defined budget, such as wall-clock time or number of iterations, is exhausted. While the final performance after tuning heavily depends on the provided budget, it is hard to pre-specify an optimal value in advance. In this work, we propose an effective and intuitive termination criterion for BO that automatically stops the procedure if it is sufficiently close to the global optimum. Our key insight is that the discrepancy between the true objective (predictive performance on test data) and the computable target (validation performance) suggests stopping once the suboptimality in optimizing the target is dominated by the statistical estimation error. Across an extensive range of real-world HPO problems and baselines, we show that our termination criterion achieves a better trade-off between the test performance and optimization time. Additionally, we find that overfitting may occur in the context of HPO, which is arguably an overlooked problem in the literature, and show how our termination criterion helps to mitigate this phenomenon on both small and large datasets.</p>
+    <p class="pub-abstract">Controller tuning and parameter optimization are crucial in system design to improve both the controller and underlying system performance. Bayesian optimization has been established as an efficient model-free method for controller tuning and adaptation. Standard methods, however, are not enough for high-precision systems to be robust with respect to unknown input-dependent noise and stable under safety constraints. In this work, we present a novel data-driven approach, RaGooSe, for safe controller tuning in the presence of heteroscedastic noise, combining safe learning with riskaverse Bayesian optimization. We demonstrate the method for synthetic benchmark and compare its performance to established BO-based tuning methods. We further evaluate RaGoose performance on a real precision-motion system utilized in semiconductor industry applications and compare it to the built-in auto-tuning routine.</p>
     
 
     
@@ -1010,18 +938,6 @@
     <div class="d-md-none space-below"></div>
     
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><strong>Best Paper Award</strong> and <strong>Contributed Talk</strong> at <em>International Conference on Automated Machine Learning (AutoML-Conf) 2022</em>, <em>ICLR Workshop on Neural Architecture Search 2021</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
@@ -1047,7 +963,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/makarova-2022-stopbo/&amp;text=Automatic%20Termination%20for%20Hyperparameter%20Optimization" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/konig-2023-safe-rahbo/&amp;text=Safe%20Risk-averse%20Bayesian%20Optimization%20for%20Controller%20Tuning" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1060,7 +976,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/makarova-2022-stopbo/&amp;t=Automatic%20Termination%20for%20Hyperparameter%20Optimization" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/konig-2023-safe-rahbo/&amp;t=Safe%20Risk-averse%20Bayesian%20Optimization%20for%20Controller%20Tuning" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1073,7 +989,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Automatic%20Termination%20for%20Hyperparameter%20Optimization&amp;body=/publication/makarova-2022-stopbo/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Safe%20Risk-averse%20Bayesian%20Optimization%20for%20Controller%20Tuning&amp;body=/publication/konig-2023-safe-rahbo/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1086,7 +1002,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/makarova-2022-stopbo/&amp;title=Automatic%20Termination%20for%20Hyperparameter%20Optimization" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/konig-2023-safe-rahbo/&amp;title=Safe%20Risk-averse%20Bayesian%20Optimization%20for%20Controller%20Tuning" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1099,7 +1015,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Automatic%20Termination%20for%20Hyperparameter%20Optimization%20/publication/makarova-2022-stopbo/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Safe%20Risk-averse%20Bayesian%20Optimization%20for%20Controller%20Tuning%20/publication/konig-2023-safe-rahbo/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1112,7 +1028,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/makarova-2022-stopbo/&amp;title=Automatic%20Termination%20for%20Hyperparameter%20Optimization" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/konig-2023-safe-rahbo/&amp;title=Safe%20Risk-averse%20Bayesian%20Optimization%20for%20Controller%20Tuning" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1131,18 +1047,6 @@
 
 
   
-  
-    
-
-
-
-
-  
-    
-
-
-
-
   
     
 
