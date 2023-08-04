@@ -27,7 +27,7 @@ abstract:
 summary: "A principled algorithm for causal bayesian optimization."
 
 links:
-- name: Oral presentation 
+- name: Oral talk    
   url: https://iclr.cc/virtual/2023/oral/14239
 - name: PDF
   url: https://arxiv.org/pdf/2211.10257.pdf
