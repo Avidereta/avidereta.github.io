@@ -36,8 +36,7 @@ links:
   name: Code
   url: https://github.com/ssethz/mcbo
 - name: Slides
-  url: https://docs.google.com/presentation/d/1DwOuOaVHLoUwGA9CwfhKqYqagBIlGlbZhU83WkIdE6c/edit?usp=sharing
-
+  url: https://docs.google.com/presentation/d/1mFBZ57W9gpSCswNTTg0SqfcJurOf_-aSb9DehXmxUh8/edit?usp=sharing
 
  # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
